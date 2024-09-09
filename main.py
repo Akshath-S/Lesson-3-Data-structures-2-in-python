@@ -1,0 +1,7 @@
+tuple=(1,2,3)
+print(tuple[1])
+tuple=("apple","banana","orange")
+print(tuple)
+print(tuple[0])
+tuple=("Rana Tigrina",23,[1,2,3],(4,5,6))
+print(tuple[2][1])
